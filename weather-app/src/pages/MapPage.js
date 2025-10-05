@@ -77,9 +77,6 @@ export default function MapPage() {
       </div>
 
       <aside style={{ marginTop: 12, color: '#9fa3a6' }}>
-        <small>
-          Note: This page uses OpenWeather for coordinate lookup and an OpenStreetMap iframe for display. If you prefer an interactive map library (Leaflet), I can add that — it requires installing <code>react-leaflet</code> and <code>leaflet</code>.
-        </small>
       </aside>
     </div>
   );

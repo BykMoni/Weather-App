@@ -195,7 +195,7 @@ export default function WeatherPage() {
         </aside>
       </main>
 
-      <footer className="app-footer" style={{ padding: 12 }}>Demo • Built with React • Codveda Internship</footer>
+      <footer className="app-footer" style={{ padding: 12 }}>Daniel • Built with React • Codveda Internship</footer>
     </div>
   );
 }
